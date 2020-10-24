@@ -438,7 +438,7 @@ h5 {
         width: 45px;
         height: 45px;
         position: fixed;
-        margin: 10px 20px;
+        margin: 10px 310px;
         background-color: lightgrey;
         border-radius: 50%;
         z-index: 4;
@@ -453,16 +453,15 @@ h5 {
         display: flex;
         align-items: center;
         justify-content: center;
-        left: -100vw;
+        right: -100vw;
         width: 100vw;
-        right: 0;
         top: 0;
         bottom: 0;
         font-size: 25px;
         transition: .5s;
     }
     .menu.menu-display {
-        left: 0;
+        right: 0vw;
     }
     .hero {
         background-position-y: bottom;
