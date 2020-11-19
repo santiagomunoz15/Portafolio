@@ -438,7 +438,8 @@ h5 {
         width: 45px;
         height: 45px;
         position: fixed;
-        margin: 10px 310px;
+        right: 5%;
+        top: 5%;
         background-color: lightgrey;
         border-radius: 50%;
         z-index: 4;
